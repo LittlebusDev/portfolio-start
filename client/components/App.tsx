@@ -18,7 +18,10 @@ function App() {
           </div>
           <div className="graphic-design">
             <a href="/graphic-design">
-              <img src="../client/images/graphic.png" alt="Graphic Design" />
+              <img
+                src="../client/images/graphic-colour.png"
+                alt="Graphic Design"
+              />
             </a>
           </div>
           <div className="photography">

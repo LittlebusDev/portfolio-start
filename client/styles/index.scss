@@ -7,9 +7,17 @@ body {
 
 .categories {
   display: flex;
-  
+
 }
 
 // image {
 //   max-width: 100px;
 // }
+
+.catrgories img{
+  filter: grayscale(1);
+}
+// .catrgories img:hover{
+//   filter: none;
+// }
+
